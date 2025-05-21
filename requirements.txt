@@ -1,0 +1,6 @@
+gradio==5.30.0
+uv==0.24.0
+faster-whisper==1.1.0
+translate==3.6.1
+python-dotenv==1.1.0
+elevenlabs==2.0.0
